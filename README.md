@@ -4,9 +4,9 @@ In this assignment, Plotly was use dto build interactive charts for my dashboard
 
 ## Content:
 ##### DataSets Folder 
-###### belly_button_biodiversity.sqlite **Unchanged**
+* belly_button_biodiversity.sqlite **Unchanged**
 ##### static/js Folder
-###### app.js **Unchanged**
+* app.js **Unchanged**
 
 
 
