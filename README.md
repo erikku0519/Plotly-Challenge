@@ -9,7 +9,12 @@ In this assignment, Plotly was use dto build interactive charts for my dashboard
 * app.js **Unchanged**
 ##### templates
 * index.html **Unchanged**
+##### app.py
 
+##### Heroku
+* Procfile
+* requirements.txt
+* runtime.txt
 
 
 Step 1 - Plotly.js<br>
